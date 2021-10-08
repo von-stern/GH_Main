@@ -1,0 +1,3 @@
+[submodule "GH_Customer_A"]
+	path = GH_Customer_A
+	url = https://github.com/von-stern/GH_Customer_A
